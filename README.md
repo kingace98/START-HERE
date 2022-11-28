@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @kingace98 AKA Elijah from GSU
 - 👀 I’m interested in Cybersecurity and automated python programming
-- 🌱 I’m currently a Senior at Georgia State University working towards my Bachelors in CIS concentrating in Cybersecurity
-- 💞️ I’m looking to collaborate on useful projects that can be utilized by my peers and recognized by employers
-- 📫 You can reach me at eafedzie3@student.gsu.edu
+- 🌱 I’m currently a Grad student from Georgia State University. I work cybersecurity and python automation.
+- 💞️ I’m looking to collaborate on any interesting projects to help me maintain my python skills.
+- 📫 You can reach me on discord @whoiseli#5044
 
 <!---
 kingace98/kingace98 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
